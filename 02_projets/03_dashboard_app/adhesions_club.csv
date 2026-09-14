@@ -1,0 +1,151 @@
+ID_Adherent,Nom,Ville,Section,Tarif (€),Statut,Date_Inscription
+ADH-1000,Nathan Petit,Saint-Clément-de-Rivière,Fitness,250,Payé,2026-03-10
+ADH-1001,Manon Robert,Saint-Gély-du-Fesc,Danse,250,Payé,2026-03-03
+ADH-1002,Nathan Laurent,Saint-Gély-du-Fesc,Judo,150,Payé,2026-07-07
+ADH-1003,Hugo Durand,Saint-Gély-du-Fesc,Football,250,En attente,2026-08-24
+ADH-1004,Manon Robert,Saint-Clément-de-Rivière,Danse,180,Payé,2026-06-27
+ADH-1005,Chloé Dubois,Grabels,Football,250,Payé,2026-03-19
+ADH-1006,Manon Thomas,Saint-Gély-du-Fesc,Basketball,250,Incomplet,2026-04-27
+ADH-1007,Léa Robert,Grabels,Football,180,Payé,2026-04-30
+ADH-1008,Emma Dubois,Grabels,Fitness,250,Payé,2026-07-22
+ADH-1009,Léa Bernard,Saint-Gély-du-Fesc,Football,180,Payé,2026-05-17
+ADH-1010,Enzo Martin,Saint-Gély-du-Fesc,Football,250,En attente,2026-06-11
+ADH-1011,Camille Richard,Saint-Gély-du-Fesc,Fitness,180,Payé,2026-03-17
+ADH-1012,Théo Martin,Montpellier,Judo,250,En attente,2026-08-15
+ADH-1013,Camille Thomas,Saint-Clément-de-Rivière,Football,250,En attente,2026-02-04
+ADH-1014,Nathan Petit,Grabels,Fitness,150,Payé,2026-01-01
+ADH-1015,Théo Thomas,Grabels,Danse,150,Payé,2026-02-09
+ADH-1016,Enzo Thomas,Montpellier,Basketball,250,Payé,2026-03-05
+ADH-1017,Nathan Robert,Saint-Gély-du-Fesc,Basketball,250,Payé,2026-05-30
+ADH-1018,Théo Durand,Grabels,Football,220,Payé,2026-03-01
+ADH-1019,Emma Petit,Grabels,Judo,180,Payé,2026-03-05
+ADH-1020,Théo Bernard,Saint-Gély-du-Fesc,Judo,220,Payé,2026-04-03
+ADH-1021,Camille Moreau,Montpellier,Danse,150,Payé,2026-03-13
+ADH-1022,Camille Robert,Grabels,Football,150,Payé,2026-01-11
+ADH-1023,Emma Petit,Montpellier,Basketball,150,Payé,2026-04-15
+ADH-1024,Nathan Dubois,Saint-Gély-du-Fesc,Judo,150,Payé,2026-08-17
+ADH-1025,Hugo Martin,Grabels,Football,250,Payé,2026-01-14
+ADH-1026,Chloé Bernard,Saint-Gély-du-Fesc,Judo,150,Payé,2026-03-01
+ADH-1027,Manon Petit,Grabels,Fitness,250,Payé,2026-01-30
+ADH-1028,Emma Richard,Montpellier,Judo,250,Payé,2026-02-04
+ADH-1029,Léa Laurent,Grabels,Basketball,150,En attente,2026-08-01
+ADH-1030,Chloé Richard,Grabels,Tennis,150,Payé,2026-06-14
+ADH-1031,Emma Laurent,Montpellier,Danse,180,Incomplet,2026-01-05
+ADH-1032,Emma Laurent,Grabels,Danse,220,Payé,2026-03-24
+ADH-1033,Chloé Dubois,Grabels,Basketball,150,Payé,2026-05-03
+ADH-1034,Nathan Moreau,Saint-Gély-du-Fesc,Judo,180,En attente,2026-03-19
+ADH-1035,Manon Robert,Grabels,Football,180,Payé,2026-06-03
+ADH-1036,Emma Robert,Montpellier,Judo,220,Payé,2026-03-03
+ADH-1037,Manon Laurent,Grabels,Basketball,250,Payé,2026-05-12
+ADH-1038,Théo Moreau,Saint-Gély-du-Fesc,Danse,150,Payé,2026-03-30
+ADH-1039,Lucas Moreau,Saint-Gély-du-Fesc,Judo,220,Payé,2026-08-25
+ADH-1040,Nathan Moreau,Montpellier,Danse,150,Payé,2026-02-11
+ADH-1041,Manon Martin,Saint-Gély-du-Fesc,Football,180,En attente,2026-03-30
+ADH-1042,Manon Dubois,Grabels,Danse,180,Payé,2026-05-26
+ADH-1043,Hugo Martin,Saint-Clément-de-Rivière,Danse,250,Payé,2026-02-09
+ADH-1044,Manon Thomas,Montpellier,Tennis,180,Payé,2026-03-13
+ADH-1045,Hugo Martin,Montpellier,Tennis,180,Payé,2026-02-08
+ADH-1046,Enzo Laurent,Grabels,Fitness,220,Payé,2026-04-14
+ADH-1047,Nathan Laurent,Grabels,Tennis,150,Payé,2026-01-14
+ADH-1048,Théo Durand,Saint-Gély-du-Fesc,Danse,150,Payé,2026-02-01
+ADH-1049,Théo Dubois,Saint-Gély-du-Fesc,Basketball,220,Payé,2026-06-28
+ADH-1050,Emma Martin,Saint-Gély-du-Fesc,Danse,250,Payé,2026-05-05
+ADH-1051,Nathan Durand,Montpellier,Basketball,150,Payé,2026-06-15
+ADH-1052,Manon Robert,Grabels,Basketball,180,En attente,2026-04-07
+ADH-1053,Hugo Dubois,Saint-Clément-de-Rivière,Tennis,150,Payé,2026-01-23
+ADH-1054,Léa Thomas,Saint-Gély-du-Fesc,Judo,180,Payé,2026-03-04
+ADH-1055,Lucas Thomas,Montpellier,Football,250,Incomplet,2026-05-23
+ADH-1056,Enzo Thomas,Grabels,Tennis,220,Payé,2026-08-13
+ADH-1057,Lucas Robert,Saint-Gély-du-Fesc,Tennis,150,Incomplet,2026-06-02
+ADH-1058,Camille Durand,Montpellier,Judo,220,Payé,2026-05-25
+ADH-1059,Nathan Moreau,Grabels,Football,150,En attente,2026-08-13
+ADH-1060,Camille Laurent,Grabels,Danse,180,Payé,2026-08-27
+ADH-1061,Hugo Durand,Saint-Clément-de-Rivière,Fitness,220,En attente,2026-09-04
+ADH-1062,Lucas Petit,Montpellier,Fitness,150,Payé,2026-07-13
+ADH-1063,Chloé Robert,Grabels,Danse,180,Payé,2026-07-25
+ADH-1064,Nathan Durand,Saint-Gély-du-Fesc,Tennis,220,Payé,2026-02-22
+ADH-1065,Chloé Durand,Saint-Gély-du-Fesc,Football,220,Payé,2026-04-14
+ADH-1066,Hugo Richard,Montpellier,Tennis,150,En attente,2026-04-14
+ADH-1067,Emma Laurent,Grabels,Basketball,150,En attente,2026-06-28
+ADH-1068,Théo Robert,Grabels,Tennis,150,Payé,2026-02-08
+ADH-1069,Léa Petit,Grabels,Tennis,180,En attente,2026-06-28
+ADH-1070,Camille Durand,Saint-Gély-du-Fesc,Danse,150,Payé,2026-07-17
+ADH-1071,Théo Durand,Montpellier,Danse,220,Payé,2026-05-14
+ADH-1072,Lucas Martin,Grabels,Danse,220,Payé,2026-03-08
+ADH-1073,Théo Moreau,Saint-Clément-de-Rivière,Fitness,150,En attente,2026-05-15
+ADH-1074,Chloé Moreau,Saint-Gély-du-Fesc,Basketball,150,Payé,2026-06-28
+ADH-1075,Hugo Durand,Grabels,Danse,250,Payé,2026-07-19
+ADH-1076,Léa Dubois,Grabels,Football,220,En attente,2026-02-11
+ADH-1077,Théo Robert,Grabels,Fitness,180,Payé,2026-07-11
+ADH-1078,Lucas Thomas,Saint-Clément-de-Rivière,Judo,250,Payé,2026-09-01
+ADH-1079,Camille Dubois,Montpellier,Football,150,Payé,2026-01-15
+ADH-1080,Léa Dubois,Saint-Gély-du-Fesc,Football,150,Payé,2026-04-21
+ADH-1081,Théo Petit,Montpellier,Danse,220,Payé,2026-06-06
+ADH-1082,Lucas Martin,Saint-Gély-du-Fesc,Judo,150,Payé,2026-02-02
+ADH-1083,Camille Petit,Montpellier,Judo,180,Payé,2026-09-01
+ADH-1084,Nathan Bernard,Grabels,Fitness,220,Payé,2026-08-10
+ADH-1085,Hugo Martin,Saint-Gély-du-Fesc,Judo,150,Payé,2026-08-19
+ADH-1086,Enzo Martin,Grabels,Basketball,220,En attente,2026-06-04
+ADH-1087,Manon Martin,Grabels,Danse,150,Payé,2026-06-13
+ADH-1088,Lucas Bernard,Saint-Gély-du-Fesc,Judo,150,Payé,2026-06-06
+ADH-1089,Emma Richard,Grabels,Fitness,150,Payé,2026-02-07
+ADH-1090,Nathan Robert,Grabels,Basketball,180,Payé,2026-07-04
+ADH-1091,Lucas Martin,Saint-Gély-du-Fesc,Tennis,180,Payé,2026-04-07
+ADH-1092,Hugo Bernard,Saint-Clément-de-Rivière,Tennis,220,En attente,2026-09-10
+ADH-1093,Enzo Laurent,Grabels,Basketball,150,Payé,2026-08-17
+ADH-1094,Léa Durand,Grabels,Fitness,150,Payé,2026-06-04
+ADH-1095,Chloé Durand,Montpellier,Basketball,180,Payé,2026-07-02
+ADH-1096,Manon Martin,Montpellier,Danse,150,Payé,2026-02-02
+ADH-1097,Léa Dubois,Saint-Gély-du-Fesc,Danse,180,Incomplet,2026-07-15
+ADH-1098,Enzo Petit,Saint-Gély-du-Fesc,Tennis,150,Payé,2026-03-27
+ADH-1099,Emma Richard,Montpellier,Judo,220,Payé,2026-03-07
+ADH-1100,Léa Martin,Grabels,Fitness,150,Payé,2026-01-10
+ADH-1101,Théo Richard,Saint-Clément-de-Rivière,Tennis,150,Payé,2026-01-05
+ADH-1102,Hugo Petit,Montpellier,Judo,250,En attente,2026-05-03
+ADH-1103,Chloé Thomas,Grabels,Judo,180,Payé,2026-03-15
+ADH-1104,Camille Thomas,Grabels,Danse,150,En attente,2026-04-07
+ADH-1105,Hugo Petit,Saint-Clément-de-Rivière,Football,150,Payé,2026-04-28
+ADH-1106,Nathan Petit,Saint-Gély-du-Fesc,Football,250,En attente,2026-02-07
+ADH-1107,Théo Martin,Saint-Gély-du-Fesc,Basketball,250,Payé,2026-05-21
+ADH-1108,Manon Durand,Montpellier,Danse,180,Payé,2026-06-08
+ADH-1109,Emma Dubois,Montpellier,Judo,250,Payé,2026-02-16
+ADH-1110,Lucas Moreau,Saint-Clément-de-Rivière,Fitness,220,Incomplet,2026-08-16
+ADH-1111,Théo Bernard,Saint-Clément-de-Rivière,Football,250,En attente,2026-04-19
+ADH-1112,Nathan Laurent,Montpellier,Judo,220,Payé,2026-08-04
+ADH-1113,Hugo Durand,Montpellier,Football,180,Incomplet,2026-06-29
+ADH-1114,Camille Moreau,Montpellier,Football,180,Payé,2026-07-03
+ADH-1115,Chloé Martin,Montpellier,Football,180,Incomplet,2026-01-15
+ADH-1116,Emma Martin,Saint-Gély-du-Fesc,Fitness,180,Payé,2026-06-06
+ADH-1117,Enzo Robert,Grabels,Danse,180,En attente,2026-05-16
+ADH-1118,Nathan Moreau,Montpellier,Fitness,220,En attente,2026-01-05
+ADH-1119,Théo Thomas,Montpellier,Tennis,220,En attente,2026-06-06
+ADH-1120,Hugo Thomas,Montpellier,Judo,180,Payé,2026-02-16
+ADH-1121,Chloé Dubois,Montpellier,Danse,250,Payé,2026-03-09
+ADH-1122,Léa Dubois,Montpellier,Danse,150,En attente,2026-03-17
+ADH-1123,Lucas Dubois,Grabels,Danse,180,Payé,2026-06-22
+ADH-1124,Chloé Martin,Grabels,Danse,250,Incomplet,2026-05-10
+ADH-1125,Manon Petit,Grabels,Fitness,150,En attente,2026-06-04
+ADH-1126,Léa Dubois,Saint-Gély-du-Fesc,Danse,180,Payé,2026-04-05
+ADH-1127,Chloé Thomas,Grabels,Basketball,180,En attente,2026-04-25
+ADH-1128,Théo Thomas,Montpellier,Judo,220,Payé,2026-08-31
+ADH-1129,Théo Bernard,Saint-Gély-du-Fesc,Danse,150,En attente,2026-06-13
+ADH-1130,Emma Bernard,Montpellier,Judo,150,En attente,2026-02-05
+ADH-1131,Léa Thomas,Saint-Gély-du-Fesc,Basketball,250,Payé,2026-01-26
+ADH-1132,Théo Petit,Montpellier,Basketball,220,Payé,2026-02-12
+ADH-1133,Lucas Petit,Saint-Gély-du-Fesc,Judo,220,Incomplet,2026-01-27
+ADH-1134,Lucas Robert,Grabels,Football,220,Payé,2026-03-10
+ADH-1135,Chloé Dubois,Saint-Gély-du-Fesc,Tennis,220,Payé,2026-05-28
+ADH-1136,Manon Durand,Montpellier,Football,150,Payé,2026-01-11
+ADH-1137,Hugo Martin,Saint-Gély-du-Fesc,Football,150,Payé,2026-03-15
+ADH-1138,Lucas Thomas,Saint-Clément-de-Rivière,Fitness,180,Payé,2026-04-14
+ADH-1139,Léa Durand,Grabels,Football,180,Payé,2026-02-07
+ADH-1140,Léa Richard,Saint-Gély-du-Fesc,Danse,220,Payé,2026-05-14
+ADH-1141,Léa Thomas,Saint-Clément-de-Rivière,Fitness,220,Payé,2026-07-19
+ADH-1142,Léa Dubois,Saint-Gély-du-Fesc,Fitness,220,Payé,2026-01-23
+ADH-1143,Emma Robert,Saint-Gély-du-Fesc,Basketball,180,Payé,2026-02-16
+ADH-1144,Lucas Martin,Saint-Gély-du-Fesc,Football,250,Payé,2026-03-31
+ADH-1145,Enzo Thomas,Saint-Gély-du-Fesc,Basketball,250,Payé,2026-02-15
+ADH-1146,Chloé Thomas,Montpellier,Judo,180,Payé,2026-04-17
+ADH-1147,Lucas Martin,Grabels,Tennis,180,Payé,2026-05-20
+ADH-1148,Enzo Richard,Grabels,Fitness,180,En attente,2026-08-06
+ADH-1149,Hugo Moreau,Saint-Gély-du-Fesc,Judo,180,Payé,2026-05-21
