@@ -1,3 +1,15 @@
+from pathlib import Path
+
+# Chemin dynamique vers le fichier dans le dossier courant
+DATA_PATH = Path(__file__).parent / "adhesions_club.csv"
+
+@st.cache_data
+def load_data():
+    df = pd.read_csv(DATA_PATH)
+    df["Date_Inscription"] = pd.to_datetime(df["Date_Inscription"])
+    df["Mois_Inscription"] = df["Date_Inscription"].dt.to_period("M").astype(str)
+    return df
+
 import plotly.express as px
 import pandas as pd
 import streamlit as st
