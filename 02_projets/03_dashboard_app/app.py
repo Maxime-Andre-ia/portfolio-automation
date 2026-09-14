@@ -1,14 +1,31 @@
 from pathlib import Path
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
-# Chemin dynamique vers le fichier dans le dossier courant
+# 1. Configuration de la page
+st.set_page_config(
+    page_title="App Club Sportif - Vue 360",
+    page_icon="🏆",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+# 2. Chargement et préparation des données
 DATA_PATH = Path(__file__).parent / "adhesions_club.csv"
+
 
 @st.cache_data
 def load_data():
     df = pd.read_csv(DATA_PATH)
     df["Date_Inscription"] = pd.to_datetime(df["Date_Inscription"])
-    df["Mois_Inscription"] = df["Date_Inscription"].dt.to_period("M").astype(str)
+    df["Mois_Inscription"] = (
+        df["Date_Inscription"].dt.to_period("M").astype(str)
+    )
     return df
+
+
+df = load_data()
 
 import plotly.express as px
 import pandas as pd
